@@ -1,2 +1,2 @@
 # Placeholder
-# Demo change for ClickUp Integration
+# Demo change - ClickUp Integration
